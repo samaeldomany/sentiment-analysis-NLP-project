@@ -1,5 +1,5 @@
 # sentiment-analysis-NLP-project
-sentiment analysis NLP project using python programming language and PyTorch framework. 
+Sentiment analysis NLP project using python programming language and PyTorch framework. 
 
 
 # Sentiment Analysis of Movie Reviews
